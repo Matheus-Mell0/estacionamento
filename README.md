@@ -1,18 +1,31 @@
-## Getting Started
+# 🚗 Sistema de Estacionamento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema desenvolvido em Java para gerenciamento de veículos em um estacionamento, com controle de entrada, saída e cálculo automático de permanência.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Cadastro de veículos (placa, marca , modelo, cor)
+- Registro de entrada e saída
+- Cálculo de tempo de permanência
+- Tolerância de 15 minutos
+- Cálculo automático do valor a pagar
+- Integração com banco de dados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias utilizadas
 
-## Dependency Management
+- Java
+- MySQL
+- JDBC
+- VS Code
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+
+## 🚀 Como executar o projeto
+
+```bash
+git clone https://github.com/Matheus-Mell0/estacionamento-java.git
