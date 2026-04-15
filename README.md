@@ -24,8 +24,3 @@ Sistema desenvolvido em Java para gerenciamento de veículos em um estacionament
 
 ---
 
-
-## 🚀 Como executar o projeto
-
-```bash
-git clone https://github.com/Matheus-Mell0/estacionamento-java.git
